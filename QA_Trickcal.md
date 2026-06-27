@@ -6,7 +6,7 @@
 ---
 
 ## 1. 테스트 환경 (Test Environment)
-* **OS**: Android 13 (Galaxy S23 Ultra)
+* **OS**: Android 06 (Galaxy Tab S9 FE)
 * **Build**: 라이브 서비스 최신 빌드 기준
 * **Tool**: JIRA (결함 추적 및 워크플로우 관리), Excel (데이터 매트릭스 분석)
 
