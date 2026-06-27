@@ -1,16 +1,16 @@
-## Hi there 👋
+# 게임 포트폴리오 │ 전성철 (Nouru918)
+본 페이지는 게임 기획, 개발, QA 등 다양한 포트폴리를 다루고 있습니다.
 
-<!--
-**Nouru918/Nouru918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 목록
 
-Here are some ideas to get you started:
+### 1. [게임 플레이 이력](./gameplay)
+* 최종 콘텐츠를 해금한 게임에 대한 플레이 이력입니다. (웹 열람 및 원본 PDF 다운로드 가능)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. 게임 기획 포트폴리오
+* Project Khan
+
+### 3. 게임 QA 포트폴리오
+* Whiskerwood
+* Windrose
+* 트릭컬: 리바이브
+* 데이브 더 다이버
