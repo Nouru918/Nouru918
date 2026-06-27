@@ -8,6 +8,6 @@
 
 플레이 이력 상세보기
 
-![1페이지](,/my_gameplay.png1)
-![2페이지](,/my_gameplay.png2)
-![3페이지](,/my_gameplay.png3)
+![1페이지](,/gameplay_page1.png1)
+![2페이지](,/gameplay_page2.png2)
+![3페이지](,/gameplay_page3.png3)
