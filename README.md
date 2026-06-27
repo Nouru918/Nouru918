@@ -10,7 +10,7 @@
 * Project Khan
 
 ### 3. 게임 QA 포트폴리오
-* Whiskerwood
-* [Windrose](./portfolio/QA/Trickcal/QA_Trickcal.md)
+* [Whiskerwood](./portfolio/QA/Whiskerwood/Whiskerwood.md)
 * [트릭컬: 리바이브](./portfolio/QA/Windrose/QA_Windrose.md)
+* [Windrose](./portfolio/QA/Trickcal/QA_Trickcal.md)
 * 데이브 더 다이버
