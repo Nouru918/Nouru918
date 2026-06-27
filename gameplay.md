@@ -8,8 +8,8 @@
 
 플레이 이력 상세보기
 
-![1페이지](,/gameplay_page1)
+<img width="595" height="842" alt="gameplay_page1" src="https://github.com/user-attachments/assets/6f24750b-cafa-4eea-968d-dc7aa488e364" />
 
-![2페이지](,/gameplay_page2)
+<img width="595" height="842" alt="gameplay_page2" src="https://github.com/user-attachments/assets/17edf996-d12a-4490-99a7-1ab33ae77c97" />
 
-![3페이지](,/gameplay_page3)
+<img width="595" height="842" alt="gameplay_page3" src="https://github.com/user-attachments/assets/24df5730-72cd-4338-85a2-0bdf586fb662" />
