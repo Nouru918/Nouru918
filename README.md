@@ -11,6 +11,6 @@
 
 ### 3. 게임 QA 포트폴리오
 * [Whiskerwood](./portfolio/QA/Whiskerwood/Whiskerwood.md)
-* [트릭컬: 리바이브](./portfolio/QA/Windrose/QA_Windrose.md)
-* [Windrose](./portfolio/QA/Trickcal/QA_Trickcal.md)
+* [트릭컬: 리바이브](./portfolio/QA/Trickcal/QA_Trickcal.md)
+* [Windrose](./portfolio/QA/Windrose/QA_Windrose.md)
 * 데이브 더 다이버
