@@ -12,5 +12,5 @@
 ### 3. 게임 QA 포트폴리오
 * Whiskerwood
 * Windrose
-* 트릭컬: 리바이브
+* [트릭컬: 리바이브](./QA_Trickcal.md)
 * 데이브 더 다이버
