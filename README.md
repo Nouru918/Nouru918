@@ -10,6 +10,7 @@
 * Project Khan - 몽골이 배경이 되는 전략 시뮬레이션 게임으로 현재 개발 중에 있습니다.
 
 ### 3. 게임 QA 포트폴리오
+문서 버전 표기 규칙: QA_게임명_v[주버전].[부버전] 구조로 관리되며, 각 게임 문서 내부에서 버전별 상세 변경 내용 및 PDF 원본 링크를 확인하실 수 있습니다.
 * [Whiskerwood](./portfolio/QA/Whiskerwood/Whiskerwood.md)
 * [트릭컬: 리바이브](./portfolio/QA/Trickcal/QA_Trickcal.md)
 * [Windrose](./portfolio/QA/Windrose/QA_Windrose.md)
