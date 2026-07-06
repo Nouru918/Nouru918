@@ -14,7 +14,7 @@
 * [Whiskerwood](./portfolio/QA/Whiskerwood/Whiskerwood.md)
 * [트릭컬: 리바이브](./portfolio/QA/Trickcal/QA_Trickcal.md)
 * [Windrose](./portfolio/QA/Windrose/QA_Windrose.md)
-* 데이브 더 다이버 - 현재 포트폴리오 작성 중 입니다.
+* [데이브 더 다이버](./portfolio/QA/DaveTheDiver/QA_DaveTheDiver.md)
 
 ### 4. 게임 운영/CS
  - 현재 자료 조사 중입니다.
