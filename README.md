@@ -15,6 +15,7 @@
 * [트릭컬: 리바이브](./portfolio/QA/Trickcal/QA_Trickcal.md)
 * [Windrose](./portfolio/QA/Windrose/QA_Windrose.md)
 * [데이브 더 다이버](./portfolio/QA/DaveTheDiver/QA_DaveTheDiver.md)
+* [Palworld] - 현재 자료 조사 중입니다.
 
 ### 4. 게임 운영/CS
  - 현재 자료 조사 중입니다.
