@@ -1,28 +1,136 @@
 # 게임 포트폴리오 │ 전성철 (Nouru918)
 본 페이지는 게임 기획, 개발, QA 등 다양한 포트폴리오를 다루고 있습니다.
 
+
 ## 목차
 
-### 1. [게임 플레이 이력](./portfolio/Play/gameplay_history.pdf)
+
+## 1. [게임 플레이 이력](./portfolio/Play/gameplay_history.pdf)
  최종 콘텐츠를 해금한 게임에 대한 플레이 이력입니다. (웹 열람 및 원본 PDF 다운로드 가능)
 
+<p>&nbsp;</p>
 
-### 2. 게임 기획 및 개발 포트폴리오
+## 2. 게임 기획 및 개발 포트폴리오
 * Project Khan - 몽골이 배경이 되는 전략 시뮬레이션 게임으로 현재 개발 중에 있습니다.
 
+<p>&nbsp;</p>
 
-### 3. 게임 QA 포트폴리오
-문서 버전 표기 규칙: QA_게임명_v[주버전].[부버전] 구조로 관리되며, 각 게임 문서 내부에서 버전별 상세 변경 내용 및 PDF 원본 링크를 확인하실 수 있습니다.
+## 3. 게임 QA 포트폴리오
+<details>
+<summary><b>공통 QA 방법론(클릭하여 펼치기)</b></summary>
+<p> * 본 문서에 서술된 QA 프로세스는 전체 프로세스는 전체 프로젝트에 적용되는 공통 표준 가이드라인입니다. 게임의 장르, 플랫폼, 라이브 빌드의 특성에 따라 검증 기법은 달라질 수 있습니다.</p>
+<p>인하우스 개발 권한이 없는 외부 라이브 빌드 환경의 제약을 극복하기 위해 JIRA에 연계하여 독자적인 4단계 외부 QA 프로세스를 다음과 같이 수립하였습니다.</p>
+<table>
+  <thead>
+    <tr>
+      <th width="25%">단계</th>
+      <th width="75%">세부 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>1단계<br>결함 발견 및 등록</b></td>
+      <td>QA 진행 중 발견된 원인불명 이슈의 등록</td>
+    </tr>
+    <tr>
+      <td><b>2단계<br>구조화 및 분석</b></td>
+      <td>발견된 이슈를 재현 및 교차 검증하여 원인을 규명하고, 개선이 필요한 사항을 기록</td>
+    </tr>
+    <tr>
+      <td><b>3단계<br>라이브 패치 모니터링</b></td>
+      <td>패치 이후 미완료된 이슈의 개선 여부 검증 및 잔여 이슈 추적</td>
+    </tr>
+    <tr>
+      <td><b>4단계<br>완료 및 저장</b></td>
+      <td>패치 이후 온전히 해결된 티켓을 자산화하여 관리</td>
+    </tr>
+  </tbody>
+</table>
+ 
+<br>
+
+<p>QA 검증 영억은 다음과 같습니다.</p>
+<table>
+ <thead>
+  <tr>
+   <th width="25%">검증 영역</th>
+   <th width="75%">검증 대상</th>
+  </tr>
+ </thead>
+ <tbody>
+    <tr>
+      <td><b>기능</b></td>
+      <td>기능 및 시스템의 정상 동작, 조건별 동작, 예외 케이스</td>
+    </tr>
+    <tr>
+      <td><b>레벨 디자인</b></td>
+      <td>스테이지 구성, 동선, 배치, 진행 구조 및 플레이 경험</td>
+    </tr>
+    <tr>
+      <td><b>밸런스</b></td>
+      <td>난이도, 전투 효율, 보상, 성장 및 콘텐츠 간 밸런스</td>
+    </tr>
+    <tr>
+      <td><b>성능 및 최적화</b></td>
+      <td>프레임, 로딩, 메모리, 끊김 등 플레이 성능</td>
+    </tr>
+    <tr>
+     <td>UI/UX</td>
+     <td>화면 구성, 인터랙션, 가독성, 피드백 및 사용성</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<p>QA 이슈의 영향도에 따라 다음과 같이 심각도를 분류됩니다.</p>
+<table>
+ <thead>
+  <tr>
+   <th width="25%">심각도</th>
+   <th width="25%">의미</th>
+ </thead>
+ <tbody>
+  <tr>
+   <td><b>치명적 (Critical)</b></td>
+   <td>서비스 플레이 진행이 불가능하거나 핵심 기능에 심각한 영향을 주는 수준</td>
+  </tr>
+  <tr>
+   <td><b>높음 (High)</b></td>
+   <td>주요 기능 또는 플레이 경험에 큰 영향을 주는 수준</td>
+  </tr>
+  <tr>
+   <td><b>보통 (Medium)</b></td>
+   <td>기능 이용은 가능하지만 명확한 영향이 있는 수준</td>
+  </tr>
+  <tr>
+   <td><b>낮음 (Low)</b></td>
+   <td>영향도가 낮아 우선순위가 상대적으로 낮은 수준</td>
+  </tr>
+  <tr>
+   <td><b>미지정 (Unspecified)</b></td>
+   <td>심각도 판단이 아직 이루어지지 않은 상태</td>
+  </tr>
+ </tbody>
+</table>
+
+</details>
+
+* QA는 각 게임 별 포트폴리오와 레포트로 구성됩니다.
+(QA 부분은 현재 전체적으로 구조 개선 중 입니다.)
+### 게임 QA 목록
 * [Whiskerwood](./portfolio/QA/Whiskerwood/Whiskerwood.md)
 * [트릭컬: 리바이브](./portfolio/QA/Trickcal/QA_Trickcal.md)
 * [Windrose](./portfolio/QA/Windrose/QA_Windrose.md)
 * [데이브 더 다이버](./portfolio/QA/DaveTheDiver/QA_DaveTheDiver.md)
 * [Palworld] - 현재 자료 조사 중입니다.
 
+<p>&nbsp;</p>
 
 ### 4. 게임 운영/CS
  - 현재 자료 조사 중입니다.
 
+<p>&nbsp;</p>
 
 ### 5. 게임 밸런스
  - 현재 자료 조사 중입니다.
