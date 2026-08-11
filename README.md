@@ -92,7 +92,7 @@
  </thead>
  <tbody>
   <tr>
-   <td><b>치명적 (Critical)</b></td>
+   <td><b>매우 높음 (Highest)</b></td>
    <td>서비스 플레이 진행이 불가능하거나 핵심 기능에 심각한 영향을 주는 수준</td>
   </tr>
   <tr>
@@ -108,8 +108,8 @@
    <td>영향도가 낮아 우선순위가 상대적으로 낮은 수준</td>
   </tr>
   <tr>
-   <td><b>미지정 (Unspecified)</b></td>
-   <td>심각도 판단이 아직 이루어지지 않은 상태</td>
+   <td><b>매우 낮음 (Lowest)</b></td>
+   <td>심각도가 매우 낮아 우선순위가 가장 낮으며, 후속 조치가 필요하더라도 긴급성이 거의 없는 수준 </td>
   </tr>
  </tbody>
 </table>
@@ -119,10 +119,10 @@
 * QA는 각 게임 별 포트폴리오와 레포트로 구성됩니다.
 (QA 부분은 현재 전체적으로 구조 개선 중 입니다.)
 ### 게임 QA 목록
-* [Whiskerwood](./portfolio/QA/Whiskerwood/Whiskerwood.md)
-* [트릭컬: 리바이브](./portfolio/QA/Trickcal/QA_Trickcal.md)
-* [Windrose](./portfolio/QA/Windrose/QA_Windrose.md)
-* [데이브 더 다이버](./portfolio/QA/DaveTheDiver/QA_DaveTheDiver.md)
+* [Whiskerwood]
+* [트릭컬: 리바이브]
+* [Windrose]
+* [데이브 더 다이버]
 * [Palworld] - 현재 자료 조사 중입니다.
 
 <p>&nbsp;</p>
