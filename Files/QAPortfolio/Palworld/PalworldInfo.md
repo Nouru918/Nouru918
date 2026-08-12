@@ -6,7 +6,7 @@
 ---
 
 ## 1. 게임 소개
-![Palworld](./Files/QAPortfolio/Palworld/PalworldImgs/PaworldMainImg.png)
+<img src="https://github.com/user-attachments/assets/Files/QAPortfolio/Palworld/PalworldImgs/PaworldMainImg.png" width="600" />
 
 
 <details>
