@@ -2,7 +2,7 @@
 
 #### 'Palworld' 라이브 빌드를 기반으로 수행한 QA 프로젝트 공간입니다.<br>
 #### 본 페이지에서는 QA 포트폴리오 원본(PDF)과 세부 QA 내용이 포함된 레포트(PDF)를 제공합니다.<br>
-#### [QA 포트폴리오(PDF) 다운로드](./Files/QAPortfolio/Palworld/QA_Palworld_Portfolio_PDF.pdf)
+#### [QA 포트폴리오(PDF) 다운로드](./QA_Palworld_Portfolio_PDF.pdf)
 ---
 ## 1. 게임 소개
 <img src="./PalworldImgs/PalworldMainImg.png" width="600" />
@@ -47,7 +47,7 @@ Palworld 1.0 버전은 단순 연출/마이너 버그보다 '성장 동선 파�
 <details>
 <summary><b>레포트 요약(클릭하여 펼치기)</b></summary>
 
-#### 게임 버전 1.0 | 레포트 v1.0 │ [원본 문서 보기](./Files/QAPortfolio/Palworld/QA_Palworld_Report_Ver_01.pdf)
+#### 게임 버전 1.0 | 레포트 v1.0 │ [원본 문서 보기](./QA_Palworld_Report_Ver_01.pdf)
 
 | 업무 영역 | 우선 순위 | 내용 요약 |
 | :--- | :---: | :--- |
@@ -60,7 +60,7 @@ Palworld 1.0 버전은 단순 연출/마이너 버그보다 '성장 동선 파�
 
 ---
 
-#### 게임 버전 1.0 | 레포트 v2.0 │ [원본 문서 보기](./Files/QAPortfolio/Palworld/QA_Palworld_Report_Ver_02.pdf)
+#### 게임 버전 1.0 | 레포트 v2.0 │ [원본 문서 보기](./QA_Palworld_Report_Ver_02.pdf)
 
 | 업무 영역 | 우선 순위 | 내용 요약 |
 | :--- | :---: | :--- |
