@@ -6,7 +6,10 @@
 ---
 
 ## 1. 게임 소개
-<img src="https://github.com/user-attachments/assets/Files/QAPortfolio/Palworld/PalworldImgs/PaworldMainImg.png" width="600" />
+<img src="./PalworldImgs/PalworldMainImg.png" width="600" />
+
+| 게임 이름 | Palworld |
+| 개발사 | PocketPair |
 
 
 <details>
