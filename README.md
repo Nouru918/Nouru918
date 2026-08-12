@@ -121,10 +121,10 @@
  QA는 각 게임 별 포트폴리오와 레포트로 구성됩니다.
 (QA 부분은 현재 전체적으로 구조 개선 중 입니다.)
 ### 게임 QA 목록
-* [Whiskerwood]
-* [트릭컬: 리바이브]
-* [Windrose]
 * [데이브 더 다이버]
+* [트릭컬: 리바이브]
+* [Whiskerwood]
+* [Windrose]
 * [Palworld]
 
 <p>&nbsp;</p>
