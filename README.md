@@ -5,7 +5,7 @@
 ## 목차
 
 
-## 1. [게임 플레이 이력](./portfolio/Play/gameplay_history.pdf)
+## 1. [게임 플레이 이력](./Files/PlayLogs/GamePlayLogs.pdf)
  최종 콘텐츠를 해금한 게임에 대한 플레이 이력입니다. (웹 열람 및 원본 PDF 다운로드 가능)
 
 <p>&nbsp;</p>
