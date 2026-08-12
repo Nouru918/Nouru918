@@ -1,12 +1,18 @@
 # 게임 QA 포트폴리오 - Palworld
 
-'Palworld' 라이브 빌드를 기반으로 수행한 QA 프로젝트 공간입니다.
+'Palworld' 라이브 빌드를 기반으로 수행한 QA 프로젝트 공간입니다.<br>
 본 페이지에서는 버전별 포트폴리오 원본(PDF)과 세부 QA 내용이 포함된 레포트(PDF)를 제공합니다.
+
+---
+
+## 1. 게임 소개
+
+
 
 <details>
 <summary><b>레포트 요약(클릭하여 펼치기)</b></summary>
 
-#### 게임 버전 1.0 | 레포트 v1.0 │ [원본 문서 보기](./QA_Palworld_v1.0.pdf)
+#### 게임 버전 1.0 | 레포트 v1.0 │ [원본 문서 보기](./Files/QAPortfolio/Palworld/QA_Palworld_Report_Ver_01.pdf)
 
 | 업무 영역 | 우선 순위 | 내용 요약 |
 | :--- | :---: | :--- |
@@ -19,7 +25,7 @@
 
 ---
 
-#### 게임 버전 1.0 | 레포트 v2.0 │ [원본 문서 보기](./QA_Palworld_v1.0_v2.0.pdf)
+#### 게임 버전 1.0 | 레포트 v2.0 │ [원본 문서 보기](./Files/QAPortfolio/Palworld/QA_Palworld_Report_Ver_02.pdf)
 
 | 업무 영역 | 우선 순위 | 내용 요약 |
 | :--- | :---: | :--- |
