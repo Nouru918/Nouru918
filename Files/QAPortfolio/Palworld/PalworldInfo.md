@@ -6,7 +6,7 @@
 ---
 
 ## 1. 게임 소개
-
+![Palworld](./Files/QAPortfolio/Palworld/PalworldImgs/PaworldMainImg.png)
 
 
 <details>
