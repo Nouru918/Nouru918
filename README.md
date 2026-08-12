@@ -128,7 +128,7 @@
 * [트릭컬: 리바이브]
 * [Whiskerwood]
 * [Windrose]
-* [Palworld]
+* [Palworld](./Files/QAPortfolio/Palworld/PalworldInfo.md)
 
 <p>&nbsp;</p>
 
