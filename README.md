@@ -60,7 +60,7 @@
 
  QA는 각 게임 별 포트폴리오와 레포트로 구성됩니다.
 ### 게임 QA 목록
-* [데이브 더 다이버] - 구조 개선 중에 있습니다.
+* [데이브 더 다이버](./Files/QAPortfolio/DaveTheDiver/DaveTheDiverInfo.md)
 * [트릭컬: 리바이브] - 구조 개선 중에 있습니다.
 * [Whiskerwood] - 구조 개선 중에 있습니다.
 * [Windrose] - 구조 개선 중에 있습니다.
