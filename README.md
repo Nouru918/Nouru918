@@ -62,7 +62,7 @@
 ### 게임 QA 목록
 * [데이브 더 다이버](./Files/QAPortfolio/DaveTheDiver/DaveTheDiverInfo.md)
 * [트릭컬: 리바이브](./Files/QAPortfolio/TrickcalRevive/TrickcalReviveInfo.md)
-* [Whiskerwood] - 구조 개선 중에 있습니다.
+* [Whiskerwood](./Files/QAPortfolio/Whiskerwood/WhiskerwoodInfo.md)
 * [Windrose] - 구조 개선 중에 있습니다.
 * [Palworld](./Files/QAPortfolio/Palworld/PalworldInfo.md)
 
