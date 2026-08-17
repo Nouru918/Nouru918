@@ -63,7 +63,7 @@
 * [데이브 더 다이버](./Files/QAPortfolio/DaveTheDiver/DaveTheDiverInfo.md)
 * [트릭컬: 리바이브](./Files/QAPortfolio/TrickcalRevive/TrickcalReviveInfo.md)
 * [Whiskerwood](./Files/QAPortfolio/Whiskerwood/WhiskerwoodInfo.md)
-* [Windrose] - 구조 개선 중에 있습니다.
+* [Windrose](./Files/QAPortfolio/Windrose/WindroseInfo.md)
 * [Palworld](./Files/QAPortfolio/Palworld/PalworldInfo.md)
 
 <p>&nbsp;</p>
