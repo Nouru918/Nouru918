@@ -2,7 +2,7 @@
 
 #### 'Dave The Diver' 라이브 빌드를 기반으로 수행한 QA 프로젝트 공간입니다.<br>
 #### 본 페이지에서는 QA 포트폴리오 원본(PDF)과 세부 QA 내용이 포함된 레포트(PDF)를 제공합니다.<br>
-#### QA 포트폴리오는 현자 작성 중에 있습니다.
+#### QA 포트폴리오는 현재 작성 중에 있습니다.
 ---
 ## 1. 게임 소개
 <img src="./DaveTheDiverImgs/DaveTheDiverMainImg.jpg" width="600" />
