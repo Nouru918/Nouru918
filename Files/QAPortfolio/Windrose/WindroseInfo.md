@@ -5,7 +5,7 @@
 #### QA 포트폴리오는 현재 작성 중에 있습니다.
 ---
 ## 1. 게임 소개
-<img src="./WindroseImgs/WindroseMainImg.png" width="600" />
+<img src="./WindroseImgs/WindroseMainImg.jpg" width="600" />
 
 | 구분 | 내용 |
 | :--- | :--- |
